@@ -1,4 +1,4 @@
-# Byte-compiled / optimized / DLL files
+:X# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
@@ -43,7 +43,7 @@ htmlcov/
 .cache
 nosetests.xml
 coverage.xml
-*.cover
+e.cover
 .hypothesis/
 
 # Translations
@@ -98,4 +98,4 @@ ENV/
 /site
 
 # mypy
-.mypy_cache/
+mypy_cache/
